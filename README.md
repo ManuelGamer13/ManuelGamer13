@@ -32,5 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelgamer13&show_icons=true&theme=dark&title_color=ed0280&text_color=00f1f5&bg_color=1f050f&hide_border=true&locale=en" alt="manuelgamer13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelgamer13&theme=dark" alt="manuelgamer13" /></p>
-
