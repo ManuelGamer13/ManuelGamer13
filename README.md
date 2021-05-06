@@ -23,11 +23,7 @@
 
 - ⚡ Hecho de la diversión **Aprender A Mejorar Cada Dia Programando**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/watch?v=stp-tqmg93o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=stp-tqmg93o" height="30" width="40" /></a>
-<a href="https://discord.gg/Manuel[Μ¥ĄĐ]#3687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Manuel[Μ¥ĄĐ]#3687" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Support:</h3>
