@@ -27,7 +27,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://github.com/manuelgamer13"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/manuelgamer13" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://github.com/manuelgamer13">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelgamer13&show_icons=true&theme=dark&title_color=ed0280&text_color=00f1f5&bg_color=1f050f&hide_border=true&locale=en" alt="manuelgamer13" /></p>
