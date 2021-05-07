@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy 👋, @ManuelGamer13</h1>
+<h1 align="center">Hola soy 👋, @Manuel Esteban Diaz Jimenez</h1>
 <h3 align="center">Un desarrollador frontend apasionado de colombia</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
