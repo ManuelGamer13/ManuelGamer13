@@ -24,7 +24,8 @@
 - ⚡ Hecho de la diversión **Aprender A Mejorar Cada Dia Programando**
 
 
-
+<h3 align="left">Support:</h3>
+<p><a href="https://media.discordapp.net/attachments/842510346001842211/843411335436959744/b0390a67983214ad0bf00352b692032emyad-logo-2017-150x129.png?width=400&height=322">
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://github.com/manuelgamer13">
